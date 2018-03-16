@@ -1,0 +1,79 @@
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:l="/lib/layout">
+<l:layout title="Test Result Dashboard">
+<st:bind var="remoteAction" value="${it}"/> 
+<l:main-panel>
+<script type="text/javascript" src="${resURL}/plugin/TestResultDashboard/jquery/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="${resURL}/plugin/TestResultDashboard/js/highcharts.js"></script>
+<script type="text/javascript" src="${resURL}/plugin/TestResultDashboard/js/exporting.js"></script>
+<script type="text/javascript" src="${resURL}/plugin/TestResultDashboard/js/chart-generator.js"></script>
+<script type="text/javascript" src="http://code.highcharts.com/modules/no-data-to-display.js"></script>
+<script>
+var $j = jQuery.noConflict();
+</script>
+
+<j:set var="temp" value="${it.jsonLoadData}"/>
+	<!--<div>
+		Select build# 
+		<select id="noofbuilds">
+		<j:forEach var="buildNumber" items="${it.getBuilds()}">
+		  <option value="${buildNumber}">${buildNumber}</option>
+		  </j:forEach>
+		</select>
+       <button class = "charts" id="generatechart">Generate Build Report</button>
+	</div>-->
+    <div class="jumbotron"> 
+	    <div class="container-fluid-fluid">
+	    	<div class="row">
+	       		<div id="executiveSummary">
+   		   		</div>
+	       </div>
+	       <div class="row">
+	       		<div id="linechart">
+   		   		</div>
+	       </div>
+	       <div class="row">
+	       		<div class="col-md-8" id="piechart">
+		   		</div>
+		   		<div class="col-md-10" id="barchart">
+		   		</div>
+		   		<div class="col-md-6" id="runSummaryRawDataTable">
+					
+		   		 </div>
+	       </div>
+	       <div class="row">
+	       		<div class="col-md-24" id="runDetailsRawDataTable">
+					
+		   		 </div>
+	        </div>
+	    </div>      
+      </div>
+	
+<script>
+  
+  	/*$j("#generatechart").click(function () {
+	        var buildNumber = $j('#noofbuilds').val();
+	        resetChartPage();
+	        generateExecutiveSummary(buildNumber);
+	   		generateChart(buildNumber);
+	   		generateRawDataTable(buildNumber);
+    }); */
+    
+    $j( document ).ready(function() {
+        generateLineChart_TestResultTrend();
+    });
+    
+    
+    function resetChartPage(){
+    	$j("#executiveSummary").html("");
+	   // $j("#linechart").html("");
+	    $j("#piechart").html("");
+	    $j("#barchart").html("");
+	    $j("#runSummaryRawDataTable").html("");
+	    $j("#runDetailsRawDataTable").html("");
+    }
+</script>
+
+	
+</l:main-panel>
+</l:layout>
+</j:jelly>

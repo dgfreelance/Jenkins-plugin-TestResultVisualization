@@ -1,0 +1,1212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<result plugin="junit@1.7">
+  <suites>
+    <suite>
+      <file>C:\Jenkins\workspace\(Regression)_(config_QA4_myaccount_registration)_(Kam1oqbus10)_(QA4)_(Daily10pm)\generatedJUnitFiles\Custom Tool\TEST--973933864.xml</file>
+      <name>MyAccount-All</name>
+      <duration>4821.9736</duration>
+      <cases>
+        <case>
+          <duration>3.555</duration>
+          <className>MyAccount-All</className>
+          <testName>WebClick - Positive - Successive Clicks</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>2.157</duration>
+          <className>MyAccount-All</className>
+          <testName>WebClick - Positive - Successive Clicks</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>43.886</duration>
+          <className>MyAccount-All</className>
+          <testName></testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>118.649</duration>
+          <className>MyAccount-All</className>
+          <testName></testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: amNavigateAccountMenu</errorStackTrace>
+          <errorDetails>vbscript error raised during function call: Cannot identify the object &apos;[ WebElement ]&apos; (of class WebElement). Verify that this object&apos;s properties match an object currently displayed in your application.</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>26.285</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>99.782</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: gotoEditWDL</errorStackTrace>
+          <errorDetails>vbscript error raised during function call: Cannot identify the object &apos;[ WebElement ]&apos; (of class WebElement). Verify that this object&apos;s properties match an object currently displayed in your application.</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>23.923</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>28.494</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>27.296</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>16.9</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>18.627</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>16.823</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>16.424</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>17.173</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>16.57</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>29.616</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>26.563</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.118</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Change WDL - non numeric - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.619</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Change WDL - non numeric - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.665</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Decrease Existing WDL - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>33.299</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Decrease Existing WDL - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.098</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Decrease Existing WDL below minimum - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.392</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Decrease Existing WDL below minimum - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.508</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Deposit Page Verification - CC - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.782</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Deposit Page Verification - CC - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>19.954</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Deposit Page Verification - Interac - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.648</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Deposit Page Verification - Interac - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.282</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Deposit Page Verification - OBP - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.252</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Deposit Page Verification - OBP - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.782</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Increase Existing WDL - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.856</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Increase Existing WDL to maximum - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>33.164</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Increase Existing WDL to maximum - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.391</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>19.468</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.977</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.363</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.008</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.681</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>27.4</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>28.939</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>26.924</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>28.307</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>19.211</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.392</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>19.609</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.04</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.555</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>19.962</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>26.274</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - exactly maximum account balance - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>25.305</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - exactly maximum account balance - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.705</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - exactly minimum deposit amount - BC.xml</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebClick</errorStackTrace>
+          <errorDetails>Element does not exist: xpath:=//*[@id=&apos;cc_confirm&apos;]</errorDetails>
+          <failedSince>47</failedSince>
+        </case>
+        <case>
+          <duration>25.353</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - exactly minimum deposit amount - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>67.311</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - exactly than remaining WDL - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.854</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - exactly than remaining WDL - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.979</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - greater than maximum account balance - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.994</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - greater than maximum account balance - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.22</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - greater than remaining WDL - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>21.821</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - greater than remaining WDL - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>25.649</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - less than minimum deposit amount - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>21.564</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Mastercard - less than minimum deposit amount - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>29.218</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>29.899</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>41.29</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL above maximum - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>42.828</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL above maximum - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>41.196</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL below minimum - BC</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>41.268</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL below minimum - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.649</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL to maximum - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>21.493</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL to maximum - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>21.641</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL to minimum - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>21.266</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL to minimum - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>41.282</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL to valid amount - dollars and cents - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>41.176</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL to valid amount - dollars and cents - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>21.17</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL to valid amount - whole dollars - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.758</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL to valid amount - whole dollars - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>41.205</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL with non-numeric - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>42.759</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Set First WDL with non-numeric - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.916</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - exactly maximum account balance - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.126</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - exactly maximum account balance - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.672</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - exactly minimum deposit amount - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>25.088</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - exactly minimum deposit amount - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>81.839</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - exactly than remaining WDL - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>32.68</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - exactly than remaining WDL - MB.xml</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebCheck</errorStackTrace>
+          <errorDetails>expectedResult != actualResult</errorDetails>
+          <failedSince>42</failedSince>
+        </case>
+        <case>
+          <duration>25.652</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - greater than maximum account balance - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.253</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - greater than maximum account balance - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.879</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - greater than remaining WDL - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>25.355</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - greater than remaining WDL - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.556</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - less than minimum deposit amount - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>26.238</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa - less than minimum deposit amount - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.5</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - exactly maximum account balance - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.531</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - exactly maximum account balance - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.791</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - exactly minimum deposit amount - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.767</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - exactly minimum deposit amount - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.901</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - exactly remaining WDL - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.019</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - exactly remaining WDL - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.3</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - greater than maximum account balance - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>25.229</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - greater than maximum account balance - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>25.011</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - greater than remaining WDL - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>25.457</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - greater than remaining WDL - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.576</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - less than minimum deposit amount - BC.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>25.378</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - My Account - Deposit Funds - Visa Debit - less than minimum deposit amount - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>18.586</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>18.533</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>32.392</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>171.441</duration>
+          <className>MyAccount-All</className>
+          <testName>TC0026 - Deposit Result Main Flow - Successful State</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>31.509</duration>
+          <className>MyAccount-All</className>
+          <testName>TC0028 - Deposit Exception Flow - Declined Credit Card</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>164.59</duration>
+          <className>MyAccount-All</className>
+          <testName>TC0035 - Profile Menu Exception Flow - Deposit Limit</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebClick</errorStackTrace>
+          <errorDetails>Browser does not exist: index:=0</errorDetails>
+          <failedSince>48</failedSince>
+        </case>
+        <case>
+          <duration>60.289</duration>
+          <className>MyAccount-All</className>
+          <testName></testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>106.438</duration>
+          <className>MyAccount-All</className>
+          <testName></testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>9.525</duration>
+          <className>MyAccount-All</className>
+          <testName></testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebSet</errorStackTrace>
+          <errorDetails>Variable name &apos;LOCAL_PASSWORD&apos; not found in any dictionary</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>91.555</duration>
+          <className>MyAccount-All</className>
+          <testName></testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>39.258</duration>
+          <className>MyAccount-All</className>
+          <testName>TC0019 - Profile Menu Main Flow - Edit Email</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>88.508</duration>
+          <className>MyAccount-All</className>
+          <testName>TC0022 - Profile Menu Main Flow - Edit Phone</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>99.718</duration>
+          <className>MyAccount-All</className>
+          <testName>TC0023 - Profile Menu Main Flow - Add Phone</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>157.665</duration>
+          <className>MyAccount-All</className>
+          <testName>TC0033 - Profile Menu Main Flow - Deposit Limit</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.485</duration>
+          <className>MyAccount-All</className>
+          <testName></testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>9.611</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - MyAccount - WithdrawFunds - Alt Flow - Add First Bank - Withdraw less than 500 - BC</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebSet</errorStackTrace>
+          <errorDetails>Variable name &apos;LOCAL_PASSWORD&apos; not found in any dictionary</errorDetails>
+          <failedSince>48</failedSince>
+        </case>
+        <case>
+          <duration>9.838</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebSet</errorStackTrace>
+          <errorDetails>Variable name &apos;LOCAL_PASSWORD&apos; not found in any dictionary</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>34.752</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>33.577</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>30.541</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>31.954</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>10.181</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebSet</errorStackTrace>
+          <errorDetails>Variable name &apos;LOCAL_PASSWORD&apos; not found in any dictionary</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>10.064</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebSet</errorStackTrace>
+          <errorDetails>Variable name &apos;LOCAL_PASSWORD&apos; not found in any dictionary</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>25.667</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>27.268</duration>
+          <className>MyAccount-All</className>
+          <testName>PL - MyAccount - WithdrawFunds - Alt Flow - Edit Existing Bank - Withdraw less than 500 - MB.xml</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.876</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.213</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.127</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>9.588</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebSet</errorStackTrace>
+          <errorDetails>Variable name &apos;LOCAL_PASSWORD&apos; not found in any dictionary</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>9.604</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebSet</errorStackTrace>
+          <errorDetails>Variable name &apos;LOCAL_PASSWORD&apos; not found in any dictionary</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>10.049</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebSet</errorStackTrace>
+          <errorDetails>Variable name &apos;LOCAL_PASSWORD&apos; not found in any dictionary</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>31.438</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>31.397</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>70.473</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>71.315</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>40.586</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>41.992</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.352</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>24.361</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.619</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>23.546</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>19.932</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>22.102</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>19.853</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>21.969</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>9.643</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebSet</errorStackTrace>
+          <errorDetails>Variable name &apos;LOCAL_PASSWORD&apos; not found in any dictionary</errorDetails>
+          <failedSince>53</failedSince>
+        </case>
+        <case>
+          <duration>16.602</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>13.766</duration>
+          <className>MyAccount-All</className>
+          <testName>Basic</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>102.181</duration>
+          <className>MyAccount-All</className>
+          <testName>TC0032 - Withdrawal Main Flow - Successful State</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>20.234</duration>
+          <className>MyAccount-All</className>
+          <testName>TC0033 - Withdrawal Exception Flow - Unsuccessful State</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+    <suite>
+      <file>C:\Jenkins\workspace\(Regression)_(config_QA4_myaccount_registration)_(Kam1oqbus10)_(QA4)_(Daily10pm)\generatedJUnitFiles\Custom Tool\TEST--973933864.xml</file>
+      <name>(empty)</name>
+      <duration>1170.339</duration>
+      <cases>
+        <case>
+          <duration>160.734</duration>
+          <className></className>
+          <testName>TC0002-Registration Main Flow-Credit Card-Success - MB.xml</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebCheck</errorStackTrace>
+          <errorDetails>Page does not exist</errorDetails>
+          <failedSince>42</failedSince>
+        </case>
+        <case>
+          <duration>123.961</duration>
+          <className></className>
+          <testName>TC0003</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: registerEIDVerificationStep</errorStackTrace>
+          <errorDetails>vbscript error raised during function call: Cannot identify the object &apos;[ WebElement ]&apos; (of class WebElement). Verify that this object&apos;s properties match an object currently displayed in your application.</errorDetails>
+          <failedSince>42</failedSince>
+        </case>
+        <case>
+          <duration>113.407</duration>
+          <className></className>
+          <testName>TC0004</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: registerEIDVerificationStep</errorStackTrace>
+          <errorDetails>vbscript error raised during function call: Cannot identify the object &apos;[ WebElement ]&apos; (of class WebElement). Verify that this object&apos;s properties match an object currently displayed in your application.</errorDetails>
+          <failedSince>42</failedSince>
+        </case>
+        <case>
+          <duration>113.806</duration>
+          <className></className>
+          <testName>TC0009</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: registerEIDVerificationStep</errorStackTrace>
+          <errorDetails>vbscript error raised during function call: Cannot identify the object &apos;[ WebElement ]&apos; (of class WebElement). Verify that this object&apos;s properties match an object currently displayed in your application.</errorDetails>
+          <failedSince>42</failedSince>
+        </case>
+        <case>
+          <duration>113.761</duration>
+          <className></className>
+          <testName>TC0010</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: registerEIDVerificationStep</errorStackTrace>
+          <errorDetails>vbscript error raised during function call: Cannot identify the object &apos;[ WebElement ]&apos; (of class WebElement). Verify that this object&apos;s properties match an object currently displayed in your application.</errorDetails>
+          <failedSince>42</failedSince>
+        </case>
+        <case>
+          <duration>42.15</duration>
+          <className></className>
+          <testName>TC0033</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>40.731</duration>
+          <className></className>
+          <testName>TC0034</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>28.868</duration>
+          <className></className>
+          <testName>TC0039</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: WebCheck</errorStackTrace>
+          <errorDetails>Page does not exist</errorDetails>
+          <failedSince>29</failedSince>
+        </case>
+        <case>
+          <duration>61.156</duration>
+          <className></className>
+          <testName>TC0040</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: playnowNavigateUserOption</errorStackTrace>
+          <errorDetails>failure trying to open header dropdown menu</errorDetails>
+          <failedSince>42</failedSince>
+        </case>
+        <case>
+          <duration>114.89</duration>
+          <className></className>
+          <testName>TC0043</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: registerEIDVerificationStep</errorStackTrace>
+          <errorDetails>vbscript error raised during function call: Cannot identify the object &apos;[ WebElement ]&apos; (of class WebElement). Verify that this object&apos;s properties match an object currently displayed in your application.</errorDetails>
+          <failedSince>29</failedSince>
+        </case>
+        <case>
+          <duration>72.109</duration>
+          <className></className>
+          <testName>TC0044</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: playnowNavigateUserOption</errorStackTrace>
+          <errorDetails>failure trying to open header dropdown menu</errorDetails>
+          <failedSince>42</failedSince>
+        </case>
+        <case>
+          <duration>113.743</duration>
+          <className></className>
+          <testName>TC0049</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: registerEIDVerificationStep</errorStackTrace>
+          <errorDetails>vbscript error raised during function call: Cannot identify the object &apos;[ WebElement ]&apos; (of class WebElement). Verify that this object&apos;s properties match an object currently displayed in your application.</errorDetails>
+          <failedSince>29</failedSince>
+        </case>
+        <case>
+          <duration>71.023</duration>
+          <className></className>
+          <testName>TC0050</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Failed at Step Function: playnowNavigateUserOption</errorStackTrace>
+          <errorDetails>failure trying to open header dropdown menu</errorDetails>
+          <failedSince>42</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>5992.3125</duration>
+  <keepLongStdio>true</keepLongStdio>
+</result>

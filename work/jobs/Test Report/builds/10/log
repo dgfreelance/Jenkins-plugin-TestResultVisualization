@@ -1,0 +1,23 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Workspace\BCLC QA project\TestResultDashboard\TestResultDashboard\work\jobs\Test Report\workspace
+[workspace] $ cmd /c call C:\Users\xiguo\AppData\Local\Temp\hudson4860942979103967997.bat
+
+C:\Workspace\BCLC QA project\TestResultDashboard\TestResultDashboard\work\jobs\Test Report\workspace>copy /b junitResult.xml +,, 
+        1 file(s) copied.
+
+C:\Workspace\BCLC QA project\TestResultDashboard\TestResultDashboard\work\jobs\Test Report\workspace>exit 0 
+Recording test results
+ERROR: Publisher hudson.tasks.junit.JUnitResultArchiver aborted due to exception
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mhudson.AbortException: None of the test reports contained any result
+	at hudson.tasks.junit.JUnitResultArchiver.perform(JUnitResultArchiver.java:159)
+	at hudson.tasks.BuildStepCompatibilityLayer.perform(BuildStepCompatibilityLayer.java:74)
+	at hudson.tasks.BuildStepMonitor$1.perform(BuildStepMonitor.java:20)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:770)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.performAllBuildSteps(AbstractBuild.java:734)
+	at hudson.model.Build$BuildExecution.post2(Build.java:183)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.post(AbstractBuild.java:683)
+	at hudson.model.Run.execute(Run.java:1770)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:89)
+	at hudson.model.Executor.run(Executor.java:240)
+Finished: FAILURE

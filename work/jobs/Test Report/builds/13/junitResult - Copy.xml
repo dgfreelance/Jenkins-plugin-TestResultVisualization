@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<result plugin="junit@1.2-beta-4">
+  <suites>
+    <suite>
+      <file>C:\Workspace\BCLC QA project\TestResultDashboard\TestResultDashboard\work\jobs\Test Report\workspace\junitResult.xml</file>
+      <name>JUnitXmlReporter.constructor</name>
+      <duration>0.006</duration>
+      <timestamp>2013-05-24T10:23:58</timestamp>
+      <cases>
+        <case>
+          <duration>0.006</duration>
+          <className>JUnitXmlReporter.constructor</className>
+          <testName>should default path to an empty string</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>Assertion failed</errorStackTrace>
+          <errorDetails>test failure</errorDetails>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <className>JUnitXmlReporter.constructor</className>
+          <testName>should default consolidate to true</testName>
+          <skipped>true</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <className>JUnitXmlReporter.constructor</className>
+          <testName>should default useDotNotation to true</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>0.006</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>
